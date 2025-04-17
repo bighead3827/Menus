@@ -1,0 +1,6 @@
+{
+  "ollama_host": "localhost",
+  "ollama_port": 11434,
+  "ollama_model": "deepseek-r1:14b",
+  "ollama_temperature": 0.7
+}
